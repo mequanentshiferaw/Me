@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## My name is Mequanent Shiferaw I am a 4th year at the University of Washington studying Informatics. I am a software enginering, Ux Design, Project Management and database.
 
-My name is Mequanent Shiferaw I am a 4th year at the University of Washington studying Informatics. I am a software enginering, Ux Design, Project Management and database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience 
 
-### Markdown
+[Link](url) and ![https://yt3.ggpht.com/a/AGF-l78f8ES-9_eZieHn8YSzA5IloOiJ0Bb6OwlJ=s900-mo-c-c0xffffffff-rj-k-no](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
