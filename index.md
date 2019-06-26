@@ -3,7 +3,7 @@
 
 ### Experience 
 
-[Link](url) and ![https://yt3.ggpht.com/a/AGF-l78f8ES-9_eZieHn8YSzA5IloOiJ0Bb6OwlJ=s900-mo-c-c0xffffffff-rj-k-no](src)
+[https://yt3.ggpht.com/a/AGF-l78f8ES-9_eZieHn8YSzA5IloOiJ0Bb6OwlJ=s900-mo-c-c0xffffffff-rj-k-no](url) and ![https://yt3.ggpht.com/a/AGF-l78f8ES-9_eZieHn8YSzA5IloOiJ0Bb6OwlJ=s900-mo-c-c0xffffffff-rj-k-no](src)
 
 
 ```markdown
